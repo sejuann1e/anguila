@@ -1,0 +1,27 @@
+body{
+  color: #4a4a4a;
+}
+
+.tit{
+  text-align: center;
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.content_link{
+  text-decoration: none;
+  color: #4a4a4a;
+}
+.contentWrap{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.content{
+  display: block;
+  width: 200px;
+  padding: 20px;
+  margin: 20px;
+  border: 2px solid #4a4a4a;
+  border-radius: 4px;
+}
