@@ -1,1 +1,8 @@
-node_modules/
+**/.DS_Store
+
+node_modules
+
+app/dist/**/*.html
+app/dist/**/*.css
+app/dist/**/*.js
+app/dist/**/img
