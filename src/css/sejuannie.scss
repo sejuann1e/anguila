@@ -1,0 +1,38 @@
+body{
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #4a4a4a;
+}
+
+.contentWrap--01{
+  display: flex;
+}
+
+.contentWrap--02{
+  margin-top: 24px;
+  padding: 8px;
+  border: 1px solid #4a4a4a;
+}
+
+.content--01{
+  width: 200px;
+  padding: 20px;
+  background-color: red;
+  color: #fff;
+}
+
+.content--02{
+  width: 200px;
+  padding: 20px;
+  background-color: blue;
+  color: #fff;
+}
+
+
+.content--03{
+  width: 200px;
+  padding: 20px;
+  background-color: green;
+  color: #fff;
+}
